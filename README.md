@@ -2,9 +2,9 @@
 <!--  
 - 🌱 I’m currently **freelancing**
 -->
-<!-- 
-- 💬 Ask me about **Web Development**
--->
+ 
+💬 Ask me about **Web Development**
+
 <!-- 
 - 📫 How to reach me **midasdev711@gmail.com**
 -->
@@ -18,6 +18,7 @@
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=midasdev711&count_private=true&include_all_commits=true" />
 </div>
 -->
-
+<!-- 
 ### 🔝 Most used languages
   <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=midasdev711&theme=github_dark&hide_border=true&hide=Jupyter%20Notebook,css,html,scss,python&layout=compact" />
+-->
